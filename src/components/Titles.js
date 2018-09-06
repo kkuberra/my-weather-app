@@ -11,4 +11,4 @@ class Titles extends React.Component {
     }
 }
 
-export default Titles
+export default Titles; 
